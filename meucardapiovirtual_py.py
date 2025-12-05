@@ -34,7 +34,7 @@ print("📂 Caminho completo:", PDF_PATH)
 
 # 2 Configurações
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 MODEL_NAME = "mistralai/mistral-7b-instruct"
 
